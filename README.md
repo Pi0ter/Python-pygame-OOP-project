@@ -1,6 +1,3 @@
-# Python pygame OOP project
-simple game made with pygame
-
 Celem projektu jest napisanie prostej gry w j ˛ezyku Python (z wykorzystaniem biblioteki pygame) z elementami algorytmiki.
 
 # Projekt typ I - gra napisana w Python 3.7 z wykorzystaniem biblioteki pygame ilustrujaca sortowanie babelkowe. 
